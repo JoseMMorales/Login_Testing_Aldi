@@ -5,7 +5,8 @@ automatizing automatizing actions from user, using Webdriver, Selenium and Java.
 
 Also, you will be able to find manual test enclosed under name  "Aldi-login-test-caseCase.xlsx" proving all Test Scenarios possible, comparing expected results and actual results, preconditions, data used and postconditions of the test run.
 
-Clone Project
+## Clone Project
+
 $ git clone https://github.com/JoseMMorales/Aldi_Login_Testing.git
 
 $ cd Aldi_Login_Testing/
