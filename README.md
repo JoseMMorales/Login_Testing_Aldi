@@ -37,7 +37,7 @@ $ cd Aldi_Login_Testing/
 
 3. Download Selenium Java Client Driver <a hrfe = "https://selenium.dev/">here</a> to finish with installation
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4vLd94KfO4ZiUs99mKNQDYzHitQZvo9K-gNuOC1BZBO2AVMEwQ&s)
+![image](https://toolsqa.com/wp-content/uploads/2014/02/Download-Webdriver-Java-Client-1.png)
 
 Selenium will be downloaded in ZIP file named "selenium-2.25.0.zip". You need to extract contact and keep in your drive (C:)
 
