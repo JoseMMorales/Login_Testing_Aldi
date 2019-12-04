@@ -20,11 +20,11 @@ $ cd Aldi_Login_Testing/
 
 ## Installation
 
-1. First step would be to install Java JDK 13 in your system. Download <a hrfe = "https://www.oracle.com/technetwork/java/javase/downloads/index.html">here</a> to start setting up.
+1. First step would be to install Java JDK 13 in your system. Download <a href = "https://www.oracle.com/technetwork/java/javase/downloads/index.html">here</a> to start setting up.
 
 ![image](https://1.bp.blogspot.com/-3oAtLkgP0t8/XZSCy2IkKII/AAAAAAAAC_Y/WBKGmNN0l6o3EMkNuPcKY-5SXLnsPgAZgCLcBGAsYHQ/s1600/java-download.png)
 
-2. Next step would be to download latest version of "Eclipse IDE for Java Developers" which can be downloaded <a hrfe = "https://www.eclipse.org/downloads/">here</a>
+2. Next step would be to download latest version of "Eclipse IDE for Java Developers" which can be downloaded <a href = "https://www.eclipse.org/downloads/">here</a>
 
 ![image](https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo-730x350.png)
 
@@ -35,7 +35,7 @@ $ cd Aldi_Login_Testing/
 -Click folder icon and click install
 -After installation procedure, click on Launch
 
-3. Download Selenium Java Client Driver <a hrfe = "https://selenium.dev/">here</a> to finish with installation
+3. Download Selenium Java Client Driver <a href = "https://selenium.dev/">here</a> to finish with installation
 
 ![image](https://toolsqa.com/wp-content/uploads/2014/02/Download-Webdriver-Java-Client-1.png)
 
@@ -43,7 +43,7 @@ Selenium will be downloaded in ZIP file named "selenium-2.25.0.zip". You need to
 
 ## Chromedriver 
 
-Install ChromeDriver from here and add its location to your system <a hrfe = "http://chromedriver.chromium.org/">PATH</a>
+Install ChromeDriver from here and add its location to your system <a href = "http://chromedriver.chromium.org/">PATH</a>
 
 * Chromedriver.exe
 
