@@ -24,9 +24,9 @@ $ cd Aldi_Login_Testing/
 
 ![image](https://1.bp.blogspot.com/-3oAtLkgP0t8/XZSCy2IkKII/AAAAAAAAC_Y/WBKGmNN0l6o3EMkNuPcKY-5SXLnsPgAZgCLcBGAsYHQ/s1600/java-download.png)
 
-2. Next step would be to download latest version of "Eclipse IDE for Java Developers" whcih can be downloaded <a hrfe = "https://www.eclipse.org/downloads/">here</a>
+2. Next step would be to download latest version of "Eclipse IDE for Java Developers" which can be downloaded <a hrfe = "https://www.eclipse.org/downloads/">here</a>
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKOCkHL8QBEYP6Hw9j27AkY9zmGAKKZUQb1YBnoODMWhspTE-Qg&s)
+![image](https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo-730x350.png)
 
 ### Steps:
 
