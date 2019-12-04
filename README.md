@@ -108,13 +108,13 @@ Install ChromeDriver from here and add its location to your system <a href = "ht
 
 - Click "Apply and Close" button.
 
-# You can also follow up complete installation and setting up on link below:
+## You can also follow up complete installation and setting up on link below:
 
 https://www.guru99.com/installing-selenium-webdriver.html
 
-## Test
+# Test
 
-# Run an example test
+## Run an example test
 
 cd src/TC1_ValUser_ValPass_LogOut.java
 
