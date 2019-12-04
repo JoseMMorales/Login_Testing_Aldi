@@ -22,7 +22,7 @@ $ cd Aldi_Login_Testing/
 
 1. First step would be to install Java JDK 13 in your system. Download <a hrfe = "https://www.oracle.com/technetwork/java/javase/downloads/index.html">here</a> to start setting up.
 
-![image](https://i.ytimg.com/vi/bIl48gbFiEc/maxresdefault.jpg)
+![image](https://1.bp.blogspot.com/-3oAtLkgP0t8/XZSCy2IkKII/AAAAAAAAC_Y/WBKGmNN0l6o3EMkNuPcKY-5SXLnsPgAZgCLcBGAsYHQ/s1600/java-download.png)
 
 2. Next step would be to download latest version of "Eclipse IDE for Java Developers" whcih can be downloaded <a hrfe = "https://www.eclipse.org/downloads/">here</a>
 
@@ -84,8 +84,6 @@ Install ChromeDriver from here and add its location to your system <a hrfe = "ht
   
 - Click "Add External JARs.."
 
-![image](https://rumadak.files.wordpress.com/2014/10/selenium_2.jpg)
-
 - Pop up window will be open. 
 
 - Select the JAR files you want to add.
@@ -97,9 +95,13 @@ Install ChromeDriver from here and add its location to your system <a hrfe = "ht
 - Click lib folder to select JAR to add.
 
 * <b>okio-1.14.0.jar
+
 * okhttp-3.11.0.jar
+
 * guava-25.0-jre.jar
+
 * commons-exec-1.3.jar
+
 * byte-buddy-1.8.15.jar</b>
 
 - Click on OK.
@@ -135,20 +137,31 @@ cd src/TC9_BlankUser_BlankPass.java
 ## Locators, constractor, methods and commands used in the project:
 
 ID Locator:
+
 Tag Name Locator:
+
 Link Text Locator:
+
 XPath Locator:
 
 click()
+
 close()
+
 manage()
+
 window()
+
 maximize()
+
 get()
+
 findElement(By, by)
+
 sendKeys()
 
 elementToBeClickable(By,)
+
 ExpectedConditions()
 
 WebDriverWait()
