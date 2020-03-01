@@ -1,9 +1,9 @@
 # Aldi_Testing_Project
 
-This is a project to verify outcome of Aldi Login adding different inputs as <b>Username</b> and <b>Password </b>.
-automatizing automatizing actions from user, using Webdriver, Selenium and Java. Presenting all tests on Google Chrome. 
+This is a project to verify outcome of Aldi Login functionality entering different inputs as <b>Username</b> and <b>Password </b>.
+Automatizing actions from user, using Webdriver, Selenium and Java. Presenting all tests on Google Chrome. 
 
-Also, you will be able to find manual test enclosed under name  "Aldi-login-test-caseCase.xlsx" proving all Test Scenarios possible, comparing expected results and actual results, preconditions, data used and postconditions of the test run.
+Also, you will be able to find manual testing Test Case uploaded under name  "Aldi-login-test-caseCase.xlsx" proving all Test Scenarios possible, comparing expected results and actual results, preconditions, test data and postconditions of the test run.
 
 ## Clone Project
 
