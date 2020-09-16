@@ -49,7 +49,7 @@ Install ChromeDriver from here and add its location to your system <a href = "ht
 
 ## After installation you need to Configure Eclipse with WebDriver.
 
-- Accept work space as the default location.
+- Accept workspace as the default location.
 
 - Create a new project <b>File > New > Java Project.</b>
 
@@ -70,7 +70,7 @@ Install ChromeDriver from here and add its location to your system <a href = "ht
 
 - Enter name of the package and click Finish button.
  
-- Create a new Java class by right-clicking on newpackage <b> New > Class, </b> creating "MyClass".
+- Create a new Java class by right-clicking on new Package <b> New > Class, </b> creating "MyClass".
 
 - Name the class and Click finish button.
 
