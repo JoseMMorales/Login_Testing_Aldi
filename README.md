@@ -1,4 +1,4 @@
-# Aldi_Testing_Project
+# Testing_Project_Aldi
 
 This is a project to verify outcome of Aldi Login functionality entering different inputs as <b>Username</b> and <b>Password </b>.
 Automatizing actions from user, using Webdriver, Selenium and Java. Presenting all tests on Google Chrome. 
